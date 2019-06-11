@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.0.1",
+	"FriendlyName": "Brilliant Sole",
+	"Description": "Plugin to interface with Brilliant Sole devices in UE4",
+	"Category": "Other",
+	"CreatedBy": "Contact CI",
+	"CreatedByURL": "contactci.co",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "contactci.co",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BrilliantSole",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
