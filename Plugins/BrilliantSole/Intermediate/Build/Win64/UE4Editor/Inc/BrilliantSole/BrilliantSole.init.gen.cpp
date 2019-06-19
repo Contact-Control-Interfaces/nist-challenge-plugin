@@ -19,7 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeBrilliantSole_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/BrilliantSole",
 				PKG_CompiledIn | 0x00000000,
-				0x8186DF90,
+				0x058BEA7A,
 				0x69BCB753,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)

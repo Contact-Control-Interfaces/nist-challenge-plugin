@@ -141,7 +141,7 @@ static struct FScriptStruct_BrilliantSole_StaticRegisterNativesFBrilliantSoleUpd
 	{
 		((FBrilliantSoleUpdateRequest*)Obj)->rightDeviceReverseHaptic = 1;
 	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "rightDeviceReverseHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_MetaData)) };
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "rightDeviceReverseHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_MetaData[] = {
 		{ "Category", "BrilliantSoleUpdateRequest" },
@@ -152,7 +152,7 @@ static struct FScriptStruct_BrilliantSole_StaticRegisterNativesFBrilliantSoleUpd
 	{
 		((FBrilliantSoleUpdateRequest*)Obj)->rightDeviceForwardHaptic = 1;
 	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "rightDeviceForwardHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_MetaData)) };
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "rightDeviceForwardHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceForwardHaptic_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_MetaData[] = {
 		{ "Category", "BrilliantSoleUpdateRequest" },
@@ -163,7 +163,7 @@ static struct FScriptStruct_BrilliantSole_StaticRegisterNativesFBrilliantSoleUpd
 	{
 		((FBrilliantSoleUpdateRequest*)Obj)->leftDeviceReverseHaptic = 1;
 	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "leftDeviceReverseHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_MetaData)) };
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "leftDeviceReverseHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceReverseHaptic_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_MetaData[] = {
 		{ "Category", "BrilliantSoleUpdateRequest" },
@@ -174,14 +174,14 @@ static struct FScriptStruct_BrilliantSole_StaticRegisterNativesFBrilliantSoleUpd
 	{
 		((FBrilliantSoleUpdateRequest*)Obj)->leftDeviceForwardHaptic = 1;
 	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "leftDeviceForwardHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_MetaData)) };
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic = { UE4CodeGen_Private::EPropertyClass::Bool, "leftDeviceForwardHaptic", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(FBrilliantSoleUpdateRequest), &Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_leftDeviceForwardHaptic_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_MetaData[] = {
 		{ "Category", "BrilliantSoleUpdateRequest" },
 		{ "ModuleRelativePath", "Public/BrilliantSoleTypes.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FEnumPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action = { UE4CodeGen_Private::EPropertyClass::Enum, "action", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020005, 1, nullptr, STRUCT_OFFSET(FBrilliantSoleUpdateRequest, action), Z_Construct_UEnum_BrilliantSole_EBrilliantSoleActionEnum, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_MetaData)) };
+	const UE4CodeGen_Private::FEnumPropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action = { UE4CodeGen_Private::EPropertyClass::Enum, "action", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000000005, 1, nullptr, STRUCT_OFFSET(FBrilliantSoleUpdateRequest, action), Z_Construct_UEnum_BrilliantSole_EBrilliantSoleActionEnum, METADATA_PARAMS(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_MetaData)) };
 	const UE4CodeGen_Private::FBytePropertyParams Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_action_Underlying = { UE4CodeGen_Private::EPropertyClass::Byte, "UnderlyingType", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0000000000000000, 1, nullptr, 0, nullptr, METADATA_PARAMS(nullptr, 0) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_Statics::NewProp_rightDeviceReverseHaptic,
@@ -218,7 +218,7 @@ static struct FScriptStruct_BrilliantSole_StaticRegisterNativesFBrilliantSoleUpd
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_CRC() { return 2285415280U; }
+	uint32 Get_Z_Construct_UScriptStruct_FBrilliantSoleUpdateRequest_CRC() { return 1893445648U; }
 class UScriptStruct* FBrilliantSoleUpdateResult::StaticStruct()
 {
 	static class UScriptStruct* Singleton = NULL;
